@@ -1,8 +1,8 @@
 # **2.086_Sp_21**
 ## MATLAB code from [2.086](http://student.mit.edu/catalog/m2a.html#2.086) (Numerical Computation for Mechanical Engineers).<br />
 ### Topics Covered:<br />
--elementary programming concepts:
-  -variable types
+-elementary programming concepts:<br />
+  -variable types<br />
   -data structures<br />
   -flow control<br />
 -introduction to linear algebra and probability<br />
@@ -12,3 +12,15 @@
   -solution of linear and nonlinear equations<br />
   -ordinary differential equations<br />
 -deterministic and probabilistic approaches<br />
+
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
